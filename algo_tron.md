@@ -80,18 +80,18 @@ In the app there are two logins, one for the student and the other for the colle
 
 ## 🛠Project Setup
 
->First the user needs to download IDE like VScode or android studio
->Copy paste all the code 
->Run the code so that the app can get installed on their emulator or physicla device (as the app is not yet available on the playstore)
+>1. First the user needs to download IDE like VScode or android studio
+>2. Copy paste all the code 
+>3. Run the code so that the app can get installed on their emulator or physicla device (as the app is not yet available on the playstore)
 >
 ## 💻Usage
 
->Once the project app is run in the ide, it will get installed on the emulator or physical device.
->Then load the app by clicking on its icon
->A splash screen pops up for 4 seconds with the text studcog
->After which you are directed to the page where you choose whether you are official or student
->Then you are redirected to the respective login pages if you have account, if you dont have account, there is a button for signup i.e creating an account
->Once you are in, depending on whether you are a student or official, you can either register a complaint or view all students compliants which are arranged in descending order based on the users college name and then resolve them by contacting user via registered college email id.
+>1. Once the project app is run in the ide, it will get installed on the emulator or physical device.
+>2. Then load the app by clicking on its icon
+>3. A splash screen pops up for 4 seconds with the text studcog
+>4. After which you are directed to the page where you choose whether you are official or student
+>5. Then you are redirected to the respective login pages if you have account, if you dont have account, there is a button for signup i.e creating an account
+>6. Once you are in, depending on whether you are a student or official, you can either register a complaint or view all students compliants which are arranged in descending order based on the users college name and then resolve them by contacting user via registered college email id.
 
 ## 👨‍💻Team Members
 
