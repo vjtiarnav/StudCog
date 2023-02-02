@@ -32,15 +32,13 @@
 
 ## 📝Description
 StudCog is a application which acts a communicator or connector between student and admin department of college. It facilitates direct submission of your problem to required authorities through easy usage of our app. You can submit any complaints, problems, inconvenience, negligence of/from our college to report through our page through complaint page. We have a admin page portal where admin dept of the college will get all the entries of complaints and will get chance to resolve it all at a common platform.
-1. Use of Camera to have proven evidence of complaints.
-2. All-in-One place for Admins to get list of Grudges to resolve.
-3. 
+1. Include features and their usecases in bullet points
 
 ## 🔗Links
 
 - [GitHub Repository]()
-- [Demo Video]()
-- [Drive Link to Screenshots of your project]()
+- [Demo Video](https://drive.google.com/drive/folders/1q6EPie0CjLcBOpckF6FbCS8QBit0uNEm)
+- [Drive Link to Screenshots of your project](https://drive.google.com/drive/folders/1qLNNt0EZWr1w--gxJquayXHTTg2jPFFq)
 - [Hosted Website Link]()
 - [App APK Link]()
 - [Hosted Backend Link]()
@@ -48,9 +46,6 @@ StudCog is a application which acts a communicator or connector between student 
 Add any more links/resources you used for your project
 
 ## 🤖Tech-Stack
-
-Mention all languages/libraries/frameworks used in your project **domain-wise**   
-You can use icons too - find them [here](https://github.com/get-icon/geticon) 
 
 #### Front-end
 -Flutter
@@ -66,26 +61,20 @@ You can use icons too - find them [here](https://github.com/get-icon/geticon)
 
 ## 📈Progress
 
-List down all the fully implemented features in your project
+Fully Implemented Features in the app:
 
-- [x] Fully Implemented Feature 1 
-- [x] Fully Implemented Feature 2
-
-List down all the partially implemented features in your project
-
-- [ ] Partially Implemented Feature 1 
-- [ ] Partially Implemented Feature 2
-
-## 🔮Future Scope
-
-List down all the future plans for the project here
-
-- Future Feature 1
-- Future Feature 2
+1. Student Sign-Up
+2. Student/Admin Login
+3. Complaint Registration with detailed description and image attachment.
+4. Complaint storage in database 
+5. List of complaints visible to the Admin
+6. Complaint Status visibility to the student.
 
 ## 💸Applications
 
->How can your project do its part in solving a real-life problem? What are its possible applications? Can it be monetized? Describe here.
+Students studying in colleges face many challenges regarding resources. Sometimes there is no proper seating arrangement, no proper internet connectivty or a major issue of lost and found items. In order to reduce this hassle and make learning a smooth experience for the students, we have created the "STUDCOG" App wherein the students can easily post their complaints/issues and get the solutions as quickly as possible.
+
+In the app there are two logins, one for the student and the other for the college admin. Once the student logs in with his/her username and password, he has to fill the form where his/her details such as college name, registration number, area of complaint, detailed description of the complaint and a photo of the complaint need to be filled. Once this form is submitted, it becomes visible to the admin and so he can provide a solution to the issue. Once he provides a solution, it is visible to the respective student.
 
 ## 🛠Project Setup
 
