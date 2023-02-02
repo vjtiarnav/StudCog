@@ -80,12 +80,12 @@ In the app there are two logins, one for the student and the other for the colle
 
 ## 🛠Project Setup
 
->Include your project setup basics here. Steps for how someone else can setup your project on their machine. Add any relevant details as well.
->First the user needs to download IDE like VScode or android studio, copy paste all the code, run the code so that the app can get installed on their emulator or physicla device (as the app is not yet available on the playstore)
+>First the user needs to download IDE like VScode or android studio
+>Copy paste all the code 
+>Run the code so that the app can get installed on their emulator or physicla device (as the app is not yet available on the playstore)
+>
 ## 💻Usage
 
->Steps to run your project once its setup. If you have an app or website, list how the user can go about using it.
->Steps to run your project once its setup. If you have an app or website, list how the user can go about using it.
 >Once the project app is run in the ide, it will get installed on the emulator or physical device.
 >Then load the app by clicking on its icon
 >A splash screen pops up for 4 seconds with the text studcog
