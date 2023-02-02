@@ -32,7 +32,9 @@
 
 ## 📝Description
 StudCog is a application which acts a communicator or connector between student and admin department of college. It facilitates direct submission of your problem to required authorities through easy usage of our app. You can submit any complaints, problems, inconvenience, negligence of/from our college to report through our page through complaint page. We have a admin page portal where admin dept of the college will get all the entries of complaints and will get chance to resolve it all at a common platform.
-1. Usag eof Camera
+1. Usage of Camera for proving authenticity.
+2. A one stop place for providing all greivances.
+3. A all in one stop for all complaints list for admin dept.
 
 ## 🔗Links
 
