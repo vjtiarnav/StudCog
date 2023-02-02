@@ -63,18 +63,18 @@ Add any more links/resources you used for your project
 
 Fully Implemented Features in the app:
 
-1. Student Sign-Up
+1. Student Sign-Up and official signup
 2. Student/Admin Login
 3. Complaint Registration with detailed description and image attachment.
 4. Complaint storage in database 
 5. List of complaints visible to the Admin
-6. Complaint Status visibility to the student.
+6. resolution 
 
 ## 💸Applications
 
 Students studying in colleges face many challenges regarding resources. Sometimes there is no proper seating arrangement, no proper internet connectivty or a major issue of lost and found items. In order to reduce this hassle and make learning a smooth experience for the students, we have created the "STUDCOG" App wherein the students can easily post their complaints/issues and get the solutions as quickly as possible.
 
-In the app there are two logins, one for the student and the other for the college admin. Once the student logs in with his/her username and password, he has to fill the form where his/her details such as college name, registration number, area of complaint, detailed description of the complaint and a photo of the complaint need to be filled. Once this form is submitted, it becomes visible to the admin and so he can provide a solution to the issue. Once he provides a solution, it is visible to the respective student.
+In the app there are two logins, one for the student and the other for the college admin. Once the student logs in with his/her username and password, he has to fill the form where his/her details such as college name, registration number, area of complaint, detailed description of the complaint and a photo of the complaint need to be filled. Once this form is submitted, it becomes visible to the admin and so he can provide a solution to the issue. The solution wil be provided to the student via registered college email id within a given period of time (5 days), if not student can re-register the same complaint as explained in the comments box pop-up.
 
 ## 🛠Project Setup
 
