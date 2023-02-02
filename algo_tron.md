@@ -101,13 +101,5 @@ Add names of your mentors with their emails and links to their GitHub accounts
 - Harsh Nag(https://github.com/): Email 
 
 ## 📱Screenshots
-Add a few screenshots for parts of the project completed till now to give the viewer a quick idea of what your project looks like. After all, a picture speaks a thousand words.
-
-You'll have to link the screenshots from your drive folder here.
-
-![Screenshot alt text](https://i.redd.it/qp8ocyzvyj8a1.jpg "Here is a screenshot")
-
-
-
-Use this template as a guide for writing your documentation. Feel free to customize and adapt it for you project.  
-For more Markdown syntax help, visit [here](https://www.markdownguide.org/basic-syntax/)
+Drive link for screenshots of the app:
+https://drive.google.com/drive/folders/1qLNNt0EZWr1w--gxJquayXHTTg2jPFFq
