@@ -31,9 +31,7 @@
 </details>
 
 ## 📝Description
-
-Add your **project description** here. Your project description should cover how your website/app works. That way you can convey what your project is without the need for anyone to view the code. A more *detailed README* in your project repository is encouraged, which can include build and use instructions etc.
-
+StudCog is a application which acts a communicator or connector between student and admin department of college. It facilitates direct submission of your problem to required authorities through easy usage of our app. You can submit any complaints, problems, inconvenience, negligence of/from our college to report through our page through complaint page. We have a admin page portal where admin dept of the college will get all the entries of complaints and will get chance to resolve it all at a common platform.
 1. Include features and their usecases in bullet points
 
 ## 🔗Links
