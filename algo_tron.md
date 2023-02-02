@@ -85,6 +85,13 @@ In the app there are two logins, one for the student and the other for the colle
 ## 💻Usage
 
 >Steps to run your project once its setup. If you have an app or website, list how the user can go about using it.
+>Steps to run your project once its setup. If you have an app or website, list how the user can go about using it.
+>Once the project app is run in the ide, it will get installed on the emulator or physical device.
+>Then load the app by clicking on its icon
+>A splash screen pops up for 4 seconds with the text studcog
+>After which you are directed to the page where you choose whether you are official or student
+>Then you are redirected to the respective login pages if you have account, if you dont have account, there is a button for signup i.e creating an account
+>Once you are in, depending on whether you are a student or official, you can either register a complaint or view all students compliants which are arranged in descending order based on the users college name and then resolve them by contacting user via registered college email id.
 
 ## 👨‍💻Team Members
 
