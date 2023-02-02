@@ -57,10 +57,12 @@ You can use icons too - find them [here](https://github.com/get-icon/geticon)
 -Dart
 
 #### Back-end
--Firebase
+-Firebase 
 
 #### Database
--Firestore
+-Firestore 
+-Authentication
+-Storage
 
 ## 📈Progress
 
@@ -115,6 +117,8 @@ Add a few screenshots for parts of the project completed till now to give the vi
 You'll have to link the screenshots from your drive folder here.
 
 ![Screenshot alt text](https://i.redd.it/qp8ocyzvyj8a1.jpg "Here is a screenshot")
+
+
 
 Use this template as a guide for writing your documentation. Feel free to customize and adapt it for you project.  
 For more Markdown syntax help, visit [here](https://www.markdownguide.org/basic-syntax/)
