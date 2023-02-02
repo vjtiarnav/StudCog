@@ -1,1 +1,1 @@
-# StudCog
+# Student Cognizance System
