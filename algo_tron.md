@@ -97,7 +97,7 @@ Add names of your team members with their emails and links to their GitHub accou
 
 Add names of your mentors with their emails and links to their GitHub accounts
 
-- Ananya Bangera(https://github.com/): Email 
+- Ananya Bangera(https://github.com/Anaya Bangera): Email 
 - Harsh Nag(https://github.com/): Email 
 
 ## 📱Screenshots
