@@ -63,18 +63,18 @@ Add any more links/resources you used for your project
 
 Fully Implemented Features in the app:
 
-1. Student Sign-Up and official signup
+1. Student Sign-Up
 2. Student/Admin Login
 3. Complaint Registration with detailed description and image attachment.
 4. Complaint storage in database 
 5. List of complaints visible to the Admin
-6. resolution 
+6. Complaint Status visibility to the student.
 
 ## 💸Applications
 
 Students studying in colleges face many challenges regarding resources. Sometimes there is no proper seating arrangement, no proper internet connectivty or a major issue of lost and found items. In order to reduce this hassle and make learning a smooth experience for the students, we have created the "STUDCOG" App wherein the students can easily post their complaints/issues and get the solutions as quickly as possible.
 
-In the app there are two logins, one for the student and the other for the college admin. Once the student logs in with his/her username and password, he has to fill the form where his/her details such as college name, registration number, area of complaint, detailed description of the complaint and a photo of the complaint need to be filled. Once this form is submitted, it becomes visible to the admin and so he can provide a solution to the issue. The solution wil be provided to the student via registered college email id within a given period of time (5 days), if not student can re-register the same complaint as explained in the comments box pop-up.
+In the app there are two logins, one for the student and the other for the college admin. Once the student logs in with his/her username and password, he has to fill the form where his/her details such as college name, registration number, area of complaint, detailed description of the complaint and a photo of the complaint need to be filled. Once this form is submitted, it becomes visible to the admin and so he can provide a solution to the issue. Once he provides a solution, it is visible to the respective student.
 
 ## 🛠Project Setup
 
@@ -88,10 +88,10 @@ In the app there are two logins, one for the student and the other for the colle
 
 Add names of your team members with their emails and links to their GitHub accounts
 
-- Atharva Kumtakar(https://github.com/): Email 
-- Arnav Chavan(https://github.com/): Email 
-- Yash Ghate(https://github.com/): Email 
-- Lalit Shringare(https://github.com/): Email 
+- Atharva Kumtakar(https://github.com/ath09): Email apkumtakar_b21@ce.vjti.ac.in
+- Arnav Chavan(https://github.com/vjtiarnav): Email ahchavan_b21@el.vjti.ac.in
+- Yash Ghate(https://github.com/zhagmagzhaga): Email ypghate_b21@el.vjti.ac.in
+- Lalit Shringare(https://github.com/LalitShringare): Email lshringare_b21@ce.vjti.ac.in
 
 ## 👨‍🏫Mentors
 
